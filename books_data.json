@@ -1,0 +1,16 @@
+[
+    {
+        "title": "My Secret Wish",
+        "author": "Maya",
+        "year": "2009",
+        "genre": "d",
+        "read": false
+    },
+    {
+        "title": "A  Mother's Prayer",
+        "author": "Maryam",
+        "year": "2006",
+        "genre": "d",
+        "read": false
+    }
+]
